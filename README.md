@@ -8,7 +8,7 @@
   <h3 align="center">College Fest Application</h3>
 
   <p align="center">
-    <b>This application will reduce your workload as an college event organizer</b>
+    <b>A generic tech-fest application providing organizers with plethora of animation and customizations as per their requirement to host events smoothly and seamlessly. This will reduce workload to start developing from scratch.</b>
     <!--
     <br />
     <a href=""><strong>Explore the docs »</strong></a>
