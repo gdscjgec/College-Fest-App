@@ -56,14 +56,14 @@
         <p>This is a set of application one for event organizers and another one for the participants of the event</p>
     </li>
     <li><a href="#roadmap">Roadmap</a>
-        <p>Not Yet Available</p>
+        <p>1st week -> Design the app's screen in figma(check the first issue)</p>
     </li>
     <li><a href="#contributing">Contributing</a>
     <p>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.Please make sure to update tests as appropriate.</p></li>
     <li><a href="#license">License</a>
       <p><a href="https://choosealicense.com/licenses/mit/">MIT</a> </p></li>
     <li><a href="#contact">Contact</a>
-      <p><a href="https://discord.gg/gmgqbHnv">GDSE-JGEC</a></p>
+      <p><a href="https://discord.gg/gmgqbHnv">GDSC-JGEC</a></p>
     </li>
   </ol>
 </details>
