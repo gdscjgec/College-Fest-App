@@ -7,7 +7,7 @@
   <h3 align="center">College Fest Application</h3>
 
   <p align="center">
-    <b>A generic tech-fest application providing organizers with plethora of animation and customizations as per their requirement to host events smoothly and seamlessly. This will reduce workload to start developing from scratch.</b>
+    <b>A fully-customizable Open-Source Android application platform with plethora of animation and customizations for all kinds of community events like technical fests, college programs and competitions. Modify and Build as per your requirements without coding from scratch!.</b>
     <!--
     <br />
     <a href=""><strong>Explore the docs »</strong></a>
